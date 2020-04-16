@@ -1,0 +1,23 @@
+*{
+			margin: 0;
+			padding: 0;
+			box-sizing:border-box;
+		}
+		html,body{
+			width: 100%;
+			height:100%;
+		}
+		.cvs{
+			width: 100%;
+			height: 75%;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+		}
+	 #canvas{
+	 	margin: auto;
+	 	box-shadow: 0 0 15px black;
+	 	background:url("../assets/boardBg.jpg");
+	 	background-size: cover;
+	 	
+	 }

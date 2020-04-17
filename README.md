@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/s-4-m-a-n)
 
 
-This repo consists of basic version of tic tac toe web-based game embedded with AI by implementing  minMax algorithm which is also known as miniMax algorithm.
+This repo consists of basic version of tic tac toe web-based game embedded with AI by implementing  minMax algorithm (also known as miniMax algorithm).
 
 
 ## what is minMax algorithm ?
